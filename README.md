@@ -1,4 +1,7 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
+## NAME: J.PREM PRASANTH
+
+## REGISTER NUMBER:2305001028
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
